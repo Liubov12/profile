@@ -42,7 +42,10 @@ a{
   color:black;
   padding: 0px;
 }
-
+.container {
+  width: 700px;
+  margin: 0 auto;
+}
 @media (max-width: 960px) {
   /* For a screen < 960px, this CSS will be read */
   .container {
